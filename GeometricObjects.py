@@ -2,6 +2,7 @@
 # 2018352
 # IP : HW - 4
 
+import tkinter
 import matplotlib.pyplot as plt
 import math
 
